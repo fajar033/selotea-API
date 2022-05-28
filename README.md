@@ -1,1 +1,1 @@
-# selotea-API
+# SeloTea-API
